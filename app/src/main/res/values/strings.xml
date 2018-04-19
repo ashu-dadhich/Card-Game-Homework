@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Card Game Homework</string>
+    <string name="title_activity_suffle_deck">SuffleDeck</string>
+</resources>
